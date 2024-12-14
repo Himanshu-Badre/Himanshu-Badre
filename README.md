@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Bade</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Badre</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
 - 🔭 I’m currently working on **Banking Project**
