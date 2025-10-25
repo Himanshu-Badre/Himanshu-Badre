@@ -13,7 +13,7 @@
 
 ### **Connect with me**
 <p align="left">
-  <a href="linkedin.com/in/himanshu-badre" target="blank">
+  <a href="https://www.linkedin.com/in/himanshu-badre-655a95285" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/himanshu_badre" target="blank">
